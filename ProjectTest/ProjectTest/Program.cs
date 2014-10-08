@@ -10,8 +10,7 @@ namespace ProjectTest
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Konovalenko A");
-            Console.WriteLine("Hi, from Reznik !!");
+            Console.WriteLine("Maliy D.");
         }
     }
 }
