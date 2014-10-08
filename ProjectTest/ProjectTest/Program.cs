@@ -11,6 +11,7 @@ namespace ProjectTest
         static void Main(string[] args)
         {
             Console.WriteLine("Konovalenko A");
+            Console.WriteLine("Boguslavskiy A");
         }
     }
 }
