@@ -10,6 +10,7 @@ namespace ProjectTest
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Khilko");
         }
     }
 }
