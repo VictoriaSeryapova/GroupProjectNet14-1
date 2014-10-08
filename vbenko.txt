@@ -1,1 +1,6 @@
 hello!
+<<<<<<< HEAD
+kovalenkou say Hello!
+=======
+hi yuriy!
+>>>>>>> c5212a381753ddf27f83ce90d20764b239269589
