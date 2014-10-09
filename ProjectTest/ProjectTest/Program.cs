@@ -13,6 +13,7 @@ namespace ProjectTest
             Console.WriteLine("Konovalenko A");
             Console.WriteLine("Hi, from Reznik !!");
             Console.WriteLine("Куличенко Андрей");
+            Console.WriteLine("Maliy D.");
         }
     }
 }
