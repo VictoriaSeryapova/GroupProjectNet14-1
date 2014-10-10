@@ -16,6 +16,7 @@ namespace ProjectTest
             Console.WriteLine("Maliy D.");
             Console.WriteLine("Khilko Iurii");
             Console.WriteLine("YuriyKovalenko");
+            Console.WriteLine("Don Yuriy");
         }
     }
 }
